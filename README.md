@@ -1,2 +1,4 @@
 # Git-Demo
-git demo repository
+This is a demo repository
+author - Avik kumar Das
+
